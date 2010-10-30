@@ -10,7 +10,7 @@ Basic Examples
 ------
 * Step 0: HelloWorld with a panel and html
 * Step 1: Docked items.
-  * (http://vimeo.com/15879797)
+  * [http://vimeo.com/15879797](http://vimeo.com/15879797)
 * Step 2: Items. 
   * [http://vimeo.com/15888504]
   * http://dev.sencha.com/deploy/touch/docs/?class=Ext.lib.Container
