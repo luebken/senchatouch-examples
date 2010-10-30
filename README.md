@@ -1,3 +1,5 @@
+Some very basic examples to get started with Sencha Touch. Please see the official examples and documentation.
+
 Ressources
 ------
 * http://vimeo.com/sencha
